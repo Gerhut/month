@@ -12,8 +12,18 @@
 
 ## HTML5
 
+[一起「H5页面CPU消耗过高」的案例处理](http://www.atatech.org/articles/37204?rnd=1526860654)
+
+[去啊 H5 页面 CPU 消耗优化最佳实践](http://www.atatech.org/articles/38692/?frm=mail_daily&uid=117633&rnd=49274115)
+>去啊团队H5优化	
+
+[手机端H5页面呼出键盘问题](http://www.atatech.org/articles/38690/?frm=mail_daily&uid=117633&rnd=1045269306)
+
 ## Node.js
 
+[通过midway来直出移动端页面提升性能](http://www.atatech.org/article/detail/34440/0?rnd=168077786&rnd=499718568)
+
+[代驾 node 直出改造方案](http://www.atatech.org/articles/38683/?frm=mail_daily&uid=117633)
 
 ## 工程化
 
