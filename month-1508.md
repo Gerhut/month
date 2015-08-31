@@ -21,6 +21,12 @@
 [The Evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/?utm_source=nodeweekly&utm_medium=email)
 >javascript里的异步演变
 
+[使用Benchmark.js和jsPerf分析代码性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207409812&idx=1&sn=df785142a26694953c8ce1f7f488dd0e&scene=2&srcid=Eesc6fnXZSEGdoGbPIbh&from=timeline&isappinstalled=0#rd)
+>js性能测试
+
+[高性能JavaScript 重排与重绘](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=209922889&idx=1&sn=6e3e946b56ef7fc0b2e5db3dc1cd8fc5&scene=23&srcid=FIMyx5YOqTnqtXZQ4LiZ#rd)
+
+
 ## CSS
 
 [csstriggers](http://csstriggers.com)
@@ -36,7 +42,7 @@
 >绍伟推荐，必属精品
 
 [css3模块化](http://www.w3ctech.com/topic/1479)
->
+
 
 ## HTML5
 
@@ -79,6 +85,15 @@
 [How to Create a Node.js Cluster for Speeding Up Your Apps](http://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/?utm_source=nodeweekly&utm_medium=email)
 >如何在node底下实现负载均衡
 
+[nodejs Stream使用中的陷阱](http://my.oschina.net/sundq/blog/189505)
+>使用stream时，要注意可读流合可写流的平衡，如果文件比较大，而可写流的写速度有比较慢的话，会导致大量的buff缓存在内存里，导致内存被撑破的情况，使用node 封装的pipe可检测可写流是否可用而决定是否继续读数据。
+
+[Download a file from NodeJS Server using Express](http://stackoverflow.com/questions/7288814/download-a-file-from-nodejs-server-using-express)
+>基于express的文件下载
+
+[Node稳定性的研究心得](http://www.cnblogs.com/rubylouvre/p/4442619.html)
+>Node.js异常的处理及多线程的架构
+
 ## 工程化
 
 [手机淘宝前端的图片相关工作流程梳理](https://github.com/amfe/article/issues/8)
@@ -86,6 +101,12 @@
 
 [前端工程——基础篇](https://github.com/fouber/blog/issues/10#issuecomment-135237057)
 >张云龙的一个系列，无意间黑了UC (逃
+
+[What、Why、How？解读Webpack官方文档](http://segmentfault.com/a/1190000003506497)
+>webpack入门
+
+[基于webpack搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526)
+>webpack搭建纯静态页面型前端项目工程化解决方案的思路
 
 ## 动效
 
@@ -97,12 +118,27 @@
 [一个完整的React项目下来后的总结](http://react-china.org/t/react/2091)
 >真实使用React.js案例的总结
 
+[使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用](http://idlelife.org/archives/977)
+>完整地项目案例
+
+[React.js 的介绍 - 针对了解 jQuery 的工程师（译）](http://segmentfault.com/a/1190000003501752)
+>完整地项目案例
+
+[使用 React 和 Flux 创建一个记事本应用](http://zhuanlan.zhihu.com/FrontendMagazine/19934725)
 
 #Github
 
-[玩转Nodejs日志管理log4js](https://cnodejs.org/topic/51c192cc73c638f37002ae5d)
+[log4js-node](https://github.com/nomiddlename/log4js-node)
 >JAVA有Log4J，Node现在也有Log4js了，管理日志的好东西
 
+[jswqx](https://github.com/hackwaly/jswqx)
+>一位大神用写的文曲星模拟器，回忆童年
+
+[node-images](https://github.com/zhangyuanwei/node-images)
+>Node.js轻量级跨平台图像编解码库，用c++写的node图片处理工具
+
+[cssnext](https://github.com/Gerhut/cssnext)
+>让你现在编译css未来的语法
 
 ## 其他
 
@@ -124,3 +160,12 @@
 
 [多项目同时进行如何做好进度管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207175399&idx=1&sn=170f0db3ef70e47e243789eb4ffecefe&scene=5#rd)
 >对多任务下的时间管理安排，推荐大家看看
+
+[使用git rebase让历史变得清晰](http://www.tuicool.com/articles/NzeQZz3)
+>真实项目中遇到的，将历史版本合并，变得更加清晰
+
+[是否必须每次添加ssh-add](http://segmentfault.com/q/1010000000835302/a-1020000000883441)
+>在github和gitlab上来回切换时管理ssh密匙的一种方式，不用每次都ssh-add
+
+[徐飞：AngularJS在苏宁云中心的深入实践](http://www.csdn.net/article/2015-08-24/2825527)
+>苏宁在angular的实践
