@@ -36,7 +36,7 @@
 
 ## js
 
-[](http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/)
+[esting-in-es6-with-mocha-and-babel-6/](http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/)
 >如何利用 mocha 测试用 es6 编写的代码
 
 [Vue+WebSocket+ES6+Canvas 制作「你画我猜」小游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651551012&idx=1&sn=3ab3a903b2c7e7a7eccff7785c7fa0c2&scene=23&srcid=0711s0F7BYEx0hzLHCUTJvZ1#rd)
