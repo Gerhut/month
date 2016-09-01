@@ -8,6 +8,7 @@
   },
   "scripts": {
     "preview": "gitbook serve",
+    "build": "gitbook build",
     "deploy": "gitbook build && gulp deploy"
   },
   "repository": {
