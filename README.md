@@ -1,4 +1,6 @@
-# 神马&书旗大前端半月刊
+# 布谷技术月刊
+
+[https://sm-fe.github.io/month/](https://sm-fe.github.io/month/)
 
 包含内容如下：
 
