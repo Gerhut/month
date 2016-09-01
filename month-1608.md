@@ -70,10 +70,13 @@
 
 [Node.js 之 log4js 完全讲解](https://zhuanlan.zhihu.com/p/22110802)
 >log4js 是 Node.js 日志处理中的数一数二的模块。比起console或者 TJ 的 debug 有其优势
-[]()
+
+[yjhjstz/deep-into-node](https://github.com/yjhjstz/deep-into-node)
+>深入理解Node.js：核心思想与源码分析
 
 ## 工程化
 
+[How Instagram.com Works](https://www.youtube.com/watch?v=VkTCL6Nqm6Y&feature=youtu.be)
 
 ## react
 
@@ -86,7 +89,19 @@
 [A Glimpse Into The Future With React Native For Web](https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/?utm_source=javascriptweekly&utm_medium=email)
 >把一个 React Native 项目改造成web项目
 
+
+
 ## github
 
+[Gerhut/releases-tracker](https://github.com/Gerhut/releases-tracker)
+>Track releases of repositories in GitHub.
 
+[sindresorhus/gulp-changed](https://github.com/sindresorhus/gulp-changed)
+>Only pass through changed files
+
+[restify/errors](https://github.com/restify/errors)
+>HttpErrors and RestErrors extracted from restify
+
+[yfsoftcom/yf-fast-dbm](https://github.com/yfsoftcom/yf-fast-dbm)
+>fast sql generateor
 
